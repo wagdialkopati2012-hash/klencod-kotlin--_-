@@ -1,0 +1,6 @@
+{
+  "name": "عرض سعر",
+  "description": "تطبيق أندرويد متكامل لإدارة عروض الأسعار والأصناف والتقارير الاحترافية بدون إنترنت.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

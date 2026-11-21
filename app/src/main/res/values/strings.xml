@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">عرض سعر</string>
+    <string name="app_subtitle">إدارة احترافية لعروض الأسعار</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_company">بيانات الشركة</string>
+    <string name="nav_products">الأصناف</string>
+    <string name="nav_quotations">عروض الأسعار</string>
+    <string name="nav_more">المزيد</string>
+    <string name="more_reports">التقارير</string>
+    <string name="more_users">المستخدمون والصلاحيات</string>
+    <string name="more_audit_log">سجل العمليات</string>
+    <string name="more_settings">الإعدادات</string>
+    <string name="delete_quotation_title">تأكيد حذف عرض السعر</string>
+    <string name="delete_quotation_cancel">إلغاء</string>
+    <string name="delete_quotation_confirm">حذف نهائياً</string>
+    <string name="reset_default_theme">إعادة تعيين المظهر الافتراضي</string>
+    <string name="import_excel">استيراد Excel</string>
+    <string name="preview_a4">معاينة</string>
+    <string name="preview_pdf">معاينة PDF</string>
+    <string name="save_pdf">حفظ PDF</string>
+    <string name="share_pdf">مشاركة</string>
+    <string name="print_pdf">طباعة</string>
+    <string name="select_products_title">اختيار الأصناف</string>
+    <string name="search_products_hint">ابحث باسم الصنف أو الكود...</string>
+    <string name="confirm_add_products">تأكيد وإضافة الأصناف</string>
+    <string name="no_products_found">لم يتم العثور على أصناف</string>
+    <string name="selected_products_zero">0 أصناف محددة</string>
+</resources>
